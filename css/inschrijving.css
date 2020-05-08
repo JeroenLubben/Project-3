@@ -1,7 +1,7 @@
 .inschrijving-wrapper {
   background: linear-gradient(
-      rgba(128, 128, 128, 0.45),
-      rgba(128, 128, 128, 0.45)
+      rgba(0, 0, 0, 0.45),
+      rgba(0, 0, 0, 0.45)
     ), url('../images/man-using-ballpoint-pen-374820.jpg');
   background-size: cover;
   height: 100vh;
